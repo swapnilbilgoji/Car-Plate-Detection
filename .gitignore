@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+ENV/
+*.env
+
+# Environment variable files
+*.env
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite3
+
+# Model and large files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Zip or compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Spyder settings
+.spyderproject
+.spyproject
+
+# Jupyter runtime
+~$*
+
+# Power BI files
+*.pbix
+
+# Pycache inside any folder
+**/__pycache__/
+
+# VS Code settings
+.vscode/
+
+# Misc
+*.bak
+*.tmp
+
+# Ignore push command reminder
+pushin command to github.txt
